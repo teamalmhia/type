@@ -1,6 +1,4 @@
- The MIT License (MIT)
-
- 
+// The MIT License (MIT)
 
 // Typed.js | Copyright (c) 2016 Matt Boldt | www.mattboldt.com
 
