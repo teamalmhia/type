@@ -1,7 +1,5 @@
 
-<html> 
- 
-<head> 
+$(`<center>
  <title>Background and text color</title> 
  <style> 
   .clr_cls { 
@@ -18,3 +16,4 @@ border-radius: 38px 0;
 الـــملكــه💝🌟</font> ●• · افضل سوبر  · •●<font style="background-color: #fff;border-radius: 15px 15px 15px 15px;"color="#ff00ff"> قريبــآ </font> ● · افضل زائر  · ●<font style="background-color: #fff;border-radius: 15px 15px 15px 15px;"color="#5CAD9A"> قريبــآ </font> ● · افضل زائرة  · ●<font style="background-color: #fff;border-radius: 15px 15px 15px 15px;"color="#5CAD9A"> قريبــآ </font> ● · مبدع الحائط · ●<font style="background-color: #fff;border-radius: 15px 15px 15px 15px;" color="#0000ff"> قريبــآ </font> •● · مبدعة الحائط · •● <font style="background-color: #fff;border-radius: 15px 15px 15px 15px;"color="#5CAD9A"> قريبــآ </font> ● · افضل تواجد · ●<font style="background-color: #fff;border-radius: 15px 15px 15px 15px;"color="#0000ff"> قريبـآ </font> ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;
 
 </marquee></div>
+<center>`).insertBefore('div#tlogins .lonline.light.break'); 
