@@ -12,7 +12,7 @@ $('.break.light').css({"background-image":"url()"});
 
 
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
-<link rel="stylesheet" type="text/css" href="https://rawgit.com/teamalmhia/type/master/Team/lm.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/teamalmhia/type/Team/lm.css">
 </style>`).insertBefore('body');
 $('.fa.fa-user-plus').html(`تسجيل`),
 
